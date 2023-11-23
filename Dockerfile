@@ -1,9 +1,6 @@
 FROM node:18-alpine as build
 WORKDIR /app
 
-
-RUN nvm install node
-RUN nvm use node
 RUN npm install -g @angular/cli
 
 COPY ./package.json .
