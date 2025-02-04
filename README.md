@@ -5,17 +5,9 @@
 
 ------------
 
-Firstname : Abdel-had
+Author : MONKAM NAKTAKWEN STEVY
 
-Surname : HANAMI
-
-For Eazytraining's 12th DevOps Bootcamp
-
-Period : march-april-may
-
-Sunday the 12th, march 2023
-
-LinkedIn : https://www.linkedin.com/in/abdel-had-hanami/
+LinkedIn : [https://www.linkedin.com/in/stevy-monkam-naktakwen/](https://www.linkedin.com/in/stevy-monkam-naktakwen-a84299181/)
 
 
 ## Application
