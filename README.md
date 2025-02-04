@@ -1,6 +1,5 @@
 # student-list project
 
-Please find the specifications by clicking [here](https://github.com/diranetafen/student-list.git "here")
 
 !["Crédit image : eazytraining.fr"](https://eazytraining.fr/wp-content/uploads/2020/04/pozos-logo.png) ![project](https://user-images.githubusercontent.com/18481009/84582395-ba230b00-adeb-11ea-9453-22ed1be7e268.jpg)
 
